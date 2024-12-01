@@ -1,0 +1,4 @@
+pywizlight>=0.5.14
+asyncio>=3.4.3
+typing>=3.7.4.3
+dataclasses>=0.6; python_version < "3.7"
